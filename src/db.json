@@ -1,0 +1,244 @@
+[
+    {
+        "men" :[
+            {
+                "id" : "1",
+                "name" : "Jordan Spizike Low",
+                "imageUrl" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1d7964ee-8017-4905-881b-07adbfdff95b/jordan-spizike-low-shoes-pBZk7c.png",
+                "price" : "₹ 14995.00"
+            },
+            {
+                "id" : "2",
+                "name" : "Jordan Stadium 90",
+                "imageUrl" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5bea1682-5465-433e-b644-d7ed8039e7c6/jordan-stadium-90-shoes-vnsjwJ.png",
+                "price" : "₹ 12 795.00"
+            },
+            {
+                "id" : "3",
+                "name" : "Air Jordan 1 Low",
+                "imageUrl" : "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ecdf5522-ebbf-4252-93e4-fc2c12d2ea29/air-jordan-1-low-shoes-6Q1tFM.png",
+                "price" : "₹ 8 995.00"
+            },
+            {
+                "id" : "4",
+                "name" : "Air Jordan 1 Mid",
+                "imageUrl" : "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/aff63355-b2e9-47fb-adae-4b60ba1f602e/air-jordan-1-mid-shoes-SQf7DM.png",
+                "price" : "₹ 11 495.00"
+            },
+            {
+                "id": "5",
+                "name":"Jumpman MVP",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8a9c6c3e-4bc5-4909-9709-3911bc78a347/jumpman-mvp-shoes-JV1HCs.png",
+                "price":"₹ 15 295.00"
+
+            },
+            {
+                "id": "6",
+                "name":"Jordan Stay Loyal 3",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/33e498ce-94d3-4f01-8b0d-79e03ba6ab1b/jordan-stay-loyal-3-shoes-GNHN2X.png",
+                "price":"₹ 10 295.00"
+
+            },
+            {
+                "id": "7",
+                "name":"Air Jordan 1 Low SE",
+                "imageUrl":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ea8067e4-5f9a-44c1-b602-69730157ddfe/air-jordan-1-low-se-shoes-xmgzfl.png",
+                "price":"₹ 10 295.00"
+
+            },
+            {
+                "id": "8",
+                "name":"Jordan Nu Retro 1 Low",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/41ec6d7a-3bc0-40ff-949a-d1faaab2e440/jordan-nu-retro-1-low-shoes-8294mJ.png",
+                "price":"₹ 9 195.00"
+
+            },
+            {
+                "id": "9",
+                "name":"Air Jordan 1 Low G NRG",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8e2656f4-79b6-4d37-93c1-ea558a1c6a6d/air-jordan-1-low-g-nrg-golf-shoes-bf4r0T.png",
+                "price":"₹ 14 995.00"
+
+            },
+            {
+                "id": "10",
+                "name":"Air Jordan 1 Zoom CMFT 2",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cd5b4bbf-263d-4f4c-8713-c94593137966/air-jordan-1-zoom-cmft-2-shoes-nX8Qqx.png",
+                "price":"₹ 13 295.00"
+
+            },
+            {
+                "id": "11",
+                "name":"Air Jordan 1 Mid",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/aff63355-b2e9-47fb-adae-4b60ba1f602e/air-jordan-1-mid-shoes-SQf7DM.png",
+                "price":"₹ 11 495.00"
+
+            },
+            {
+                "id": "12",
+                "name":"Air Jordan 1 Low SE",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1cfc4de7-080f-4246-8055-5fc79f1eb430/air-jordan-1-low-se-shoes-ZbxSRp.png",
+                "price":"₹ 9 777.00"
+
+            }
+        ],
+        "women" : [
+            {
+                "id" : "13",
+                "name" : "Nike V2K Run",
+                "imageUrl" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5b23e3c3-48a5-4d72-ae36-adfa7e5dccc4/v2k-run-shoes-zJV8TV.png",
+                "price" : "₹ 10 795.00"
+            },
+            {
+                "id" : "14",
+                "name" : "Air Jordan 1 Low",
+                "imageUrl" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1fcccc5c-b4ee-4765-9ba1-d2a9a6c08bc6/air-jordan-1-low-shoes-459b4T.png",
+                "price" : "₹ 8 295.00"
+            },
+            {
+                "id" : "15",
+                "name" : "Nike Air Force 1 '07 Next Nature SE",
+                "imageUrl" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/11f0c7eb-7562-4980-959a-938e476c1443/air-force-1-07-next-nature-se-shoes-tpPRVT.png",
+                "price" : "₹ 10 795.00"
+            },
+            {
+                "id" : "16",
+                "name" : "Nike Dunk Low Next Nature SE",
+                "imageUrl" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/30c74871-c80f-4109-9a22-161a4a413ed8/dunk-low-next-nature-se-shoes-6b4JcJ.png",
+                "price" : "₹ 10 795.00"
+            },
+            {
+                "id" : "17",
+                "name" : "Air Jordan 1 Mid SE",
+                "imageUrl" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/201dcdbc-3c5c-4b69-9401-c5e927a63788/air-jordan-1-mid-se-shoes-4wVkRK.png",
+                "price" : "₹ 12 295.00"
+            },
+            {
+                "id" : "18",
+                "name" : "Air Jordan 1 Low Method of Make",
+                "imageUrl" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1d0de537-b3ac-499c-9d09-e086710b5da4/air-jordan-1-low-method-of-make-shoes-m6FCTq.png",
+                "price" : "₹ 12 295.00"
+            },
+            {
+                "id" : "19",
+                "name" : "Nike Dunk Low",
+                "imageUrl" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f152b300-35b4-4b2d-b4f1-57f20e9b6c1c/dunk-low-shoes-wbxcmN.png",
+                "price" : "₹ 8 295.00"
+            },
+            {
+                "id" : "20",
+                "name" : "Nike Court Legacy Lift",
+                "imageUrl" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f4a9e6c9-3ec8-44a1-b516-58bb18f1ecf7/court-legacy-lift-shoes-clz2v9.png",
+                "price" : "₹ 7 495.00"
+            },
+            {
+                "id" : "21",
+                "name" : "Nike Flyknit Haven",
+                "imageUrl" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e699f208-055d-430b-b1ab-aedc8581d630/flyknit-haven-shoes-Rl3vMk.png",
+                "price" : "₹ 10 795.00"
+            },
+            {
+                "id" : "22",
+                "name" : "Air Jordan 1 Zoom CMFT 2",
+                "imageUrl" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ad2f5045-d30a-4d23-9040-0f3a1dad80a4/air-jordan-1-zoom-cmft-2-shoes-gxvXJM.png",
+                "price" : "₹ 13 295.00"
+            },
+            {
+                "id" : "23",
+                "name" : "Air Jordan 4 Retro",
+                "imageUrl" : "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/61f8835d-329b-4a5b-b323-b546c8be0164/air-jordan-4-retro-shoes-VrTVTm.png",
+                "price" : "₹ 19 295.00"
+            },
+            {
+                "id" : "24",
+                "name" : "Women's Air Jordan 3 Georgia Peach",
+                "imageUrl" : "https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/0b3f968a-29f8-427a-889c-4bfaeebdb656/women-s-air-jordan-3-georgia-peach-ck9246-121-release-date.jpg",
+                "price" : "₹ 16 595.00"
+            }
+        ],
+        "kids" :[
+            {
+                "id": "25",
+                "name":"Nike Dunk Low",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/777a3b2e-5105-4ec1-b828-53d32c162fa1/dunk-low-older-shoes-C7T1cx.png",
+                "price":"₹ 6 995.00"
+
+            },
+            {
+                "id": "26",
+                "name":"Jordan 1 Low Alt",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/88b64166-92f7-4969-bc75-0326e052e286/jordan-1-low-alt-younger-shoes-W8Wbv0.png",
+                "price":"₹ 5 095.00"
+
+            },{
+                "id": "27",
+                "name":"Air Jordan 1 Mid",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1c6dfbd3-4e9e-4643-9fc8-7a951a1357f0/air-jordan-1-mid-older-shoes-wqHdzW.png",
+                "price":"₹ 7 597.00"
+
+            },
+            {
+                "id": "28",
+                "name":"Nike Air Force 1 LE",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/97bda33a-b474-408d-bd48-28c220462cab/air-force-1-le-older-shoes-Gmwp9p.png",
+                "price":"₹ 6 995.00"
+
+            },{
+                "id": "29",
+                "name":"Tatum 2",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/180de4ce-49e2-466c-b76d-127a1c2afedf/tatum-2-older-basketball-shoes-xBsSqd.png",
+                "price":"₹ 6 995.00"
+
+            },
+            {
+                "id": "30",
+                "name":"Jordan 1 Mid SE",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/da2c6cb3-107b-48a6-8756-9c061ab1714d/jordan-1-mid-se-shoes-sVfB1W.png",
+                "price":"₹ 4 595.00"
+
+            },
+            {
+                "id": "31",
+                "name":"Jordan 1 Mid SE",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f425c54b-1fd3-4759-88da-2f53883e4bff/jordan-1-mid-se-younger-shoes-Tjsxf9.png",
+                "price":"₹ 5 995.00"
+
+            },
+            {
+                "id": "32",
+                "name":"Nike Revolution 7",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e887cbee-14a7-4504-801a-45f4aeae4201/revolution-7-older-running-shoes-RTdvsl.png",
+                "price":"₹ 3 317.00"
+
+            },
+            {
+                "id": "33",
+                "name":"Nike Dunk Low",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/02a5d480-e258-48e3-b913-474abb316d4f/dunk-low-older-shoes-DTH3jX.png",
+                "price":"₹ 6 695.00"
+
+            },
+            {
+                "id": "34",
+                "name":"Jordan 1 Low Alt SE",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ebaad3f6-0646-453b-b61a-f71dd83de9be/jordan-1-low-alt-se-shoes-C6tC2F.png",
+                "price":"₹ 4 595.00"
+
+            },
+            {
+                "id": "35",
+                "name":"Air Jordan 1 Low",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/73d20ad4-26ef-49d7-b79c-80042b084b5b/air-jordan-1-low-older-shoes-xLzJc6.png",
+                "price":"₹ 7 295.00"
+
+            },
+            {
+                "id": "36",
+                "name":"Nike Air Max 1 EasyOn",
+                "imageUrl":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/0a09edcf-114d-470b-969c-f477c12bfa43/air-max-1-easyon-younger-shoes-Hgp7Pt.png",
+                "price":"₹ 6 495.00"
+
+            }
+        ]
+    }
+]

@@ -5,7 +5,7 @@ function Men({ handleAddToCart }) {
   const [menData, setMenData] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:3001/men')
+    fetch('https://sneaker-db.onrender.com/men')
       .then(response => {
         if (!response.ok) {
           throw new Error('Network response was not ok');
